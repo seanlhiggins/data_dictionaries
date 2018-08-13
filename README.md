@@ -2,14 +2,14 @@
 
 Display any CSV file as a searchable, filterable, pretty HTML table. Done in 100% JavaScript.
 
-Check out the working demo: http://derekeder.github.io/csv-to-html-table/
+Check out the working demo: https://seanlhiggins.github.io/
 
 ## Usage
 
 #### 1. Clone this repository (in the command line)
 
 ``` bash
-git clone git@github.com:derekeder/csv-to-html-table.git
+git clone git@github.com:seanlhiggins/seanlhiggins.github.io.git
 cd csv-to-html-table
 ```
 
@@ -97,7 +97,7 @@ Read more on working with [GitHub pages projects](https://help.github.com/articl
 Want to embed your nifty table on your website? You can use an [iframe](http://www.w3schools.com/tags/tag_iframe.asp). Once you've deployed your table (above in step 5) you can link to it in an iframe right in your HTML.
 
 ```html
-<iframe style="border-style: none;" src="http://derekeder.github.io/csv-to-html-table/" height="950" width="600"></iframe>
+<iframe style="border-style: none;" src="https://seanlhiggins.github.io/" height="950" width="600"></iframe>
 ```
 
 ## Dependencies
@@ -118,17 +118,3 @@ If your table isn't displaying any data, try the following:
    * Firebug in Firefox: Tools => Web Developer => Firebug => Open Firebug) 
 1. If you do see javascript errors, the error will tell you what line it is failing on. Best to start by going there!
 
-## Errors / Bugs
-
-If something is not behaving intuitively, it is a bug, and should be reported.
-Report it here: https://github.com/derekeder/csv-to-html-table/issues
-
-## Note on Patches/Pull Requests
- 
-* Fork the project.
-* Make your feature addition or bug fix.
-* Send a pull request. Bonus points for topic branches.
-
-## Copyright
-
-Copyright (c) 2015 Derek Eder. Released under the [MIT License](https://github.com/derekeder/csv-to-html-table/blob/master/LICENSE).
